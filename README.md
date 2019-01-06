@@ -1,2 +1,2 @@
 # learning.py-
-trying and learning things as a new Python user and a junior developer to be 
+Trying my best to learn Python so I have a powerful tool to use in my everyday life to solve problems.
